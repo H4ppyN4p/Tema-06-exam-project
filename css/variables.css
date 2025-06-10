@@ -1,0 +1,50 @@
+@font-face {
+    font-family: h1Font;
+    src: url(../fonts/AlegreyaSansSC-Bold.ttf);
+}
+
+@font-face {
+    font-family: h2Font;
+    src: url(../fonts/TitilliumWeb-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: h3Font;
+    src: url(../fonts/Biryani-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: ctaFont;
+    src: url(../fonts/Alkalami-Regular.ttf);
+}
+
+@font-face {
+    font-family: infoFont;
+    src: url(../fonts/Inter_18pt-Regular.ttf);
+}
+
+@font-face {
+    font-family: infofFontItalic;
+    src: url(../fonts/Inter_18pt-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: pFont;
+    src: url(../fonts/MavenPro-Regular.ttf);
+}
+
+:root {
+    --dark: #161413;
+    --background: #FBE5A9;
+    --red: #931635;
+    --green: #3F6730;
+    --blue: #425753;
+
+    --nav-folded-desktop: 120px;
+    --nav-folded-desktop-expand: 160px;
+
+    --nav-folded-tablet: 90px;
+    --nav-folded-tablet-expand: 130px;
+
+}
+
