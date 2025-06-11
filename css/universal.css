@@ -36,6 +36,10 @@ header {
     margin-bottom: 200px;
 }
 
+.right-align {
+    text-align: right;
+}
+
 #header-container {
     top: 0;
     right: 0;
