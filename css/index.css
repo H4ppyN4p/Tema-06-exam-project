@@ -794,12 +794,19 @@
 
 #about-me-image {
     position: relative;
-    top: 30px;
+    top: 130px;
     left: 30px;
     width: 130px;
     height: 110px;
     background-color: red;
     z-index: 5;
+}
+
+#about-me-header {
+    position: relative;
+    top: 60px;
+    z-index: 6;
+    left: 117px;
 }
 
 
@@ -812,6 +819,11 @@
     height: 283px;
     background-color: var(--red);
     z-index: 4;
+    padding: 10px;
+}
+
+#about-me-red p {
+    padding-bottom: 10px;
 }
 
 #about-me-green-one {
